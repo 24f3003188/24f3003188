@@ -5,7 +5,7 @@
 
 ## I'm a Data Science & AI Developer
 - 🎓 B.S. Data Science and Applications @ Indian Institute of Technology Madras (CGPA: 8.16)
-- 🌱 Currently building AI-powered full-stack applications with Flask, Vue.js, and LLMs
+- 🌱 Currently building cool things.....
 - 🏆 Winner - National Handloom Hackathon, Adobe AI-thon, Adobe Student Experience Program
 - 📫 What is the best way to contact me? [LinkedIn](https://www.linkedin.com/in/atharv-sanjeev-kumar)
 - 🌐 Portfolio: [Visit](https://atharvsk.vercel.app)
@@ -86,3 +86,5 @@
 Last Updated on 20/08/2026 UTC
 <!--END_SECTION:waka-->
 ---
+<img width="1080" height="245" alt="Screenshot 2026-08-20 161454" src="https://github.com/user-attachments/assets/84fb8b75-3fc3-4ae8-983b-51d64e0b72ee" />
+
