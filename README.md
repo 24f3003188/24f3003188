@@ -3,7 +3,7 @@
 # Hi there, I'm Atharv - aka dunegon_master <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Data Science & AI Developer
+## I'm a Data Scientist & AI Developer
 - 🎓 B.S. Data Science and Applications @ Indian Institute of Technology Madras (CGPA: 8.16)
 - 🌱 Currently building cool things.....
 - 🏆 Winner - National Handloom Hackathon, Adobe AI-thon, Adobe Student Experience Program
